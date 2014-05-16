@@ -1,0 +1,26 @@
+name: Default Template
+markdown: redcarpet
+pygments: true
+
+# Modify these values
+#  url: http://localhost:4000
+url: http://kiransamudrala.github.io
+# Repository Name
+baseurl: /MatUtility
+# default image location
+imgbase: /assets
+
+# User information
+user: "Tony Fast"
+
+email: me@gmail.com
+# Get your disqus username at www.disqus.com
+disqus: 
+# A global comment system
+# www.disqus.com
+twitter: 
+linkedin:  
+github: kiransamudrala
+slideshare: 
+gravatar:
+  hash: dgsfdg
